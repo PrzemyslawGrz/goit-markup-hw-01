@@ -1,4 +1,7 @@
 {
+  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "files.autoSave": "afterDelay"
+  "security.workspace.trust.untrustedFiles": "open",
+  "grunt.autoDetect": "on",
+  "editor.fontWeight": "normal"
 }
